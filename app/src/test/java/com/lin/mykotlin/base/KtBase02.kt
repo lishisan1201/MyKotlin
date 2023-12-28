@@ -1,11 +1,10 @@
-package com.lin.mykotlin
+package com.lin.mykotlin.base
 
 import kotlin.math.abs
 
 /**
  * 二元及多元判断
  * @author linth
- * @create 2023/1/16
  */
 fun main() {
     //二元判断
